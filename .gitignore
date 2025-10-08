@@ -5,3 +5,4 @@ logs/
 uploads/
 *.log
 .DS_Store
+.env
